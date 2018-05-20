@@ -1,0 +1,12 @@
+bin/
+config/
+data/
+doc-html/
+saves/
+script-output/
+temp/
+tests/
+player-data.json
+*.dat
+*.cfg
+*.log

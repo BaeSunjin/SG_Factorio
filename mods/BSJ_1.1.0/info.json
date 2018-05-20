@@ -1,0 +1,11 @@
+{
+  "name": "BSJ",
+  "version": "1.1.0",
+  "title": "BSJ Test",
+  "author": "BSJ",
+	"contact": "",
+	"homepage": "",
+	"factorio_version": "0.16",
+  "description": "BSJ Test Mode",
+	"dependencies": ["base"]
+}
